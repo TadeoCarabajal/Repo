@@ -1,13 +1,12 @@
-
-/**
- * Write a description of class Tadeo here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+import java.util.*;
 public class Tadeo{
     
     public Tadeo(){
         
+    }
+    public void exploit(){
+        while(true){
+            System.out.println("XD, SOS UN RE PELOTUDO");
+        }
     }
 }
