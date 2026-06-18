@@ -1,3 +1,3 @@
-public class Guerra {
+public class Guerra{
     
 }
