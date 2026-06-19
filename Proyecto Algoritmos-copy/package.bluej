@@ -1,11 +1,16 @@
 #BlueJ package file
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=552
-editor.fx.0.y=98
+editor.fx.0.height=876
+editor.fx.0.width=1456
+editor.fx.0.x=-8
+editor.fx.0.y=-8
 objectbench.height=183
+<<<<<<< HEAD
 objectbench.width=1133
 package.divider.horizontal=0.6
+=======
+objectbench.width=1896
+package.divider.horizontal=0.5547368421052632
+>>>>>>> ca596e2900b423010a05d05d6a2c066120fe4168
 package.divider.vertical=0.79957805907173
 package.editor.height=751
 package.editor.width=1780
@@ -28,13 +33,14 @@ target1.name=Guerra
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=120
-target1.x=770
-target1.y=280
+target1.x=330
+target1.y=110
 target2.height=70
 target2.name=KGramas
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=120
+<<<<<<< HEAD
 target2.x=760
 target2.y=160
 target3.height=70
@@ -44,3 +50,7 @@ target3.type=ClassTarget
 target3.width=120
 target3.x=770
 target3.y=400
+=======
+target2.x=330
+target2.y=230
+>>>>>>> ca596e2900b423010a05d05d6a2c066120fe4168
